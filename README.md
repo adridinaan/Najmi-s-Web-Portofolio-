@@ -1,6 +1,6 @@
 # 🚀 Portfolio Pribadi | Najmi Faza
 
-Selamat datang di repositori portofolio pribadi saya. Situs ini merupakan hasil dari proses desain yang efisien menggunakan visual builder Webstudio, dan fokus pada kecepatan serta tampilan yang responsive.***.
+Selamat datang di repositori portofolio pribadi saya. Situs ini merupakan hasil dari proses desain yang efisien menggunakan visual builder Webstudio, dan fokus pada kecepatan serta tampilan yang responsive.
 
 ## ✨ Deskripsi Proyek
 
